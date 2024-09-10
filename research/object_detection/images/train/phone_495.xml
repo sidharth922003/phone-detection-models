@@ -1,0 +1,26 @@
+<annotation>
+	<folder>phone_images</folder>
+	<filename>phone_495.jpeg</filename>
+	<path>S:\phone_images\phone_495.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>810</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>343</xmin>
+			<ymin>227</ymin>
+			<xmax>581</xmax>
+			<ymax>685</ymax>
+		</bndbox>
+	</object>
+</annotation>
